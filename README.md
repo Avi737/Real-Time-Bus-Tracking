@@ -17,6 +17,7 @@ Used Mapbox api to create and display maps on the web page. added customization 
 
 Screenshot:
 --------------------
+![bustracker](https://user-images.githubusercontent.com/15187270/112938120-d58ea680-90dd-11eb-864d-1c3ae9c792f8.JPG)
 
 
 <h2>Credits</h2>
